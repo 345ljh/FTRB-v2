@@ -1,0 +1,12 @@
+
+/build/
+/.vscode/*.log
+*.d
+*.o
+*.lst
+*.jdebug
+*.jdebug.user
+*.csv
+*.xlsx
+*.zip
+*.pptx
