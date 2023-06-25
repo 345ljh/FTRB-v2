@@ -1,0 +1,46 @@
+
+
+OpenDocument="main.c", FilePath="C:/Users/LJH/Desktop/Unfinished/FTRB_v2/Core/Src/main.c", Line=60
+OpenDocument="bsp_can.c", FilePath="C:/Users/LJH/Desktop/Unfinished/FTRB_v2/Core/bsp_can.c", Line=29
+OpenDocument="stm32f4xx_it.c", FilePath="C:/Users/LJH/Desktop/Unfinished/FTRB_v2/Core/Src/stm32f4xx_it.c", Line=183
+OpenDocument="bsp_can.h", FilePath="C:/Users/LJH/Desktop/Unfinished/FTRB_v2/Core/bsp_can.h", Line=0
+OpenDocument="freertos.c", FilePath="C:/Users/LJH/Desktop/Unfinished/FTRB_v2/Core/Src/freertos.c", Line=153
+OpenDocument="startup_stm32f407xx.s", FilePath="C:/Users/LJH/Desktop/Unfinished/FTRB_v2/startup_stm32f407xx.s", Line=51
+OpenDocument="wt53d.c", FilePath="C:/Users/LJH/Desktop/Unfinished/FTRB_v2/Core/HAL/wt53d.c", Line=0
+OpenDocument="stm32f4xx_hal_uart.c", FilePath="C:/Users/LJH/Desktop/Unfinished/FTRB_v2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c", Line=3173
+OpenDocument="motor.c", FilePath="C:/Users/LJH/Desktop/Unfinished/FTRB_v2/Core/HAL/motor.c", Line=34
+OpenDocument="stm32f4xx_hal.c", FilePath="C:/Users/LJH/Desktop/Unfinished/FTRB_v2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c", Line=315
+OpenDocument="stm32f407xx.h", FilePath="C:/Users/LJH/Desktop/Unfinished/FTRB_v2/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f407xx.h", Line=201
+OpenDocument="core_cm4.h", FilePath="C:/Users/LJH/Desktop/Unfinished/FTRB_v2/Drivers/CMSIS/Include/core_cm4.h", Line=1680
+OpenDocument="stm32f4xx_hal_timebase_tim.c", FilePath="C:/Users/LJH/Desktop/Unfinished/FTRB_v2/Core/Src/stm32f4xx_hal_timebase_tim.c", Line=75
+OpenDocument="tasks.c", FilePath="C:/Users/LJH/Desktop/Unfinished/FTRB_v2/Middlewares/Third_Party/FreeRTOS/Source/tasks.c", Line=3422
+OpenDocument="stm32f4xx_hal_cortex.c", FilePath="C:/Users/LJH/Desktop/Unfinished/FTRB_v2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c", Line=156
+OpenDocument="cmsis_gcc.h", FilePath="C:/Users/LJH/Desktop/Unfinished/FTRB_v2/Drivers/CMSIS/Include/cmsis_gcc.h", Line=199
+OpenDocument="stm32f4xx_hal_rcc.c", FilePath="C:/Users/LJH/Desktop/Unfinished/FTRB_v2/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c", Line=1050
+OpenToolbar="Debug", Floating=0, x=0, y=0
+OpenWindow="Call Stack", DockArea=RIGHT, x=0, y=0, w=753, h=249, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Source Files", DockArea=LEFT, x=0, y=1, w=281, h=317, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Disassembly", DockArea=RIGHT, x=0, y=1, w=753, h=134, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Memory 1", DockArea=BOTTOM, x=1, y=0, w=247, h=192, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, EditorAddress=0x20005708
+OpenWindow="Watched Data 1", DockArea=RIGHT, x=0, y=2, w=753, h=336, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Functions", DockArea=LEFT, x=0, y=0, w=281, h=403, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Terminal", DockArea=BOTTOM, x=2, y=0, w=149, h=192, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Data Sampling", DockArea=BOTTOM, x=3, y=0, w=300, h=192, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, VisibleTab=0, UniformSampleSpacing=0
+OpenWindow="Timeline", DockArea=BOTTOM, x=0, y=0, w=597, h=192, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=1, DataPaneShown=1, PowerPaneShown=1, CodePaneShown=1, PinCursor="Cursor Movable", TimePerDiv="1 ns / Div", TimeStampFormat="Time", DataGraphDrawAsPoints=0, DataGraphLegendShown=1, DataGraphUniformSampleSpacing=0, DataGraphLegendPosition="370;-69", DataGraphShowNamesAtCursor=0, PowerGraphDrawAsPoints=0, PowerGraphLegendShown=1, PowerGraphAvgFilterTime=Off, PowerGraphAvgFilterLen=Off, PowerGraphUniformSampleSpacing=0, PowerGraphLegendPosition="370;-69", CodeGraphLegendShown=1, CodeGraphLegendPosition="321;-15"
+OpenWindow="Console", DockArea=BOTTOM, x=4, y=0, w=623, h=192, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+SmartViewPlugin="", Page="", Toolbar="Hidden", Window="SmartView 1"
+TableHeader="Functions", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Address";"Size";"#Insts";"Source"], ColWidths=[1435;100;100;100;286]
+TableHeader="Call Stack", SortCol="Function", SortOrder="ASCENDING", VisibleCols=["Function";"Stack Frame";"Source";"PC";"Return Address";"Stack Used"], ColWidths=[162;119;134;100;287;100]
+TableHeader="Source Files", SortCol="File", SortOrder="ASCENDING", VisibleCols=["File";"Status";"Size";"#Insts";"Path"], ColWidths=[233;100;100;100;918]
+TableHeader="Power Sampling", SortCol="None", SortOrder="ASCENDING", VisibleCols=["Index";"Time";"Ch 0"], ColWidths=[100;100;100]
+TableHeader="Watched Data 1", SortCol="Expression", SortOrder="ASCENDING", VisibleCols=["Expression";"Value";"Location";"Refresh"], ColWidths=[265;216;134;112]
+TableHeader="RegisterSelectionDialog", SortCol="None", SortOrder="ASCENDING", VisibleCols=[], ColWidths=[]
+TableHeader="Data Sampling Table", SortCol="None", SortOrder="ASCENDING", VisibleCols=["Index";"Time"], ColWidths=[100;100]
+TableHeader="Data Sampling Setup", SortCol="Expression", SortOrder="ASCENDING", VisibleCols=["Expression";"Type";"Value";"Min";"Max";"Average";"# Changes";"Min. Change";"Max. Change"], ColWidths=[100;100;100;100;100;100;110;126;126]
+TableHeader="TargetExceptionDialog", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Address";"Description"], ColWidths=[200;100;100;861]
+WatchedExpression="robot", RefreshRate=5, Window=Watched Data 1
+WatchedExpression="wt53d", RefreshRate=5, Window=Watched Data 1
+WatchedExpression="robot_created", RefreshRate=5, Window=Watched Data 1
+WatchedExpression="hcan1", RefreshRate=5, Window=Watched Data 1
+WatchedExpression="can_devices", RefreshRate=5, Window=Watched Data 1
+WatchedExpression="motors", RefreshRate=5, Window=Watched Data 1
